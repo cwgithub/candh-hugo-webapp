@@ -1,7 +1,7 @@
 ---
-title: 'We Help Business Grow'
+title: What we do
 weight: 1
-background: 'images/kevin-bhagat-461952-unsplash.jpg'
+background: 'images/website-g2393cbd8f_1280.jpg'
 button: 'Our Work'
 buttonLink: 'work'
 ---

@@ -15,9 +15,9 @@ theme = "hugo-hero-theme"
     mobile = "images/logo-mobile.svg"
     mobile_height = "36px"
     mobile_width = "36px"
-    desktop = "images/logo.svg"
-    desktop_height = "29px"
-    desktop_width = "217px"
+    desktop = "images/logo.jpg"
+    desktop_height = "59px"
+    desktop_width = "369px"
     alt = "Hugo Hero"
 
   [params.homepage_meta_tags]
