@@ -7,16 +7,15 @@ heroHeading: 'Horizon Asset LLP'
 heroSubHeading: 'Hedge Fund (London/Tokyo/Hong Kong)'
 heroBackground: 'work/horizon.jpg'
 thumbnail: 'work/horizon.jpg'
-images: ['https://source.unsplash.com/random/400x600/?nature', 
-'https://source.unsplash.com/random/400x300/?travel','https://source.unsplash.com/random/400x300/?architecture','https://source.unsplash.com/random/400x600/?buildings','https://source.unsplash.com/random/400x300/?city','https://source.unsplash.com/random/400x600/?business']
+images: []
 ---
 
-•	Day-to-day responsibility to support trading desks in a pressurized and reactive manner.
+Day-to-day responsibility to support trading desks in a pressurized and reactive manner.
 
-•	Introduced REST/Web API delivery pattern to replace disparate, individual WinForms applications.
+Introduced REST/Web API delivery pattern to replace disparate, individual WinForms applications.
 
-•	Introduced the KendoUI JavaScript widget library to provide standardised, rich web user interfaces
+Introduced the KendoUI JavaScript widget library to provide standardised, rich web user interfaces
 
-•	Delivered a successful migration of the price collection system from a manual and error-prone Excel solution to a robust REST client/server solution with various web admin pages to easily configure the price collection from Bloomberg across regional, instrument specific time-zones.  The switch-over was done by moving by instrument class and exchange in order to never interrupt the daily trading.
+Delivered a successful migration of the price collection system from a manual and error-prone Excel solution to a robust REST client/server solution with various web admin pages to easily configure the price collection from Bloomberg across regional, instrument specific time-zones.  The switch-over was done by moving by instrument class and exchange in order to never interrupt the daily trading.
 
-•	Delivered various REST applications for trading desks and middle office.
+Delivered various REST applications for trading desks and middle office.
