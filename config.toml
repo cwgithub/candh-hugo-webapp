@@ -36,7 +36,7 @@ theme = "hugo-hero-theme"
 #    weight = 1
 
 [[menu.main]]
-    name = "Work"
+    name = "Our Clients"
     url = "/work/"
     weight = 2
 

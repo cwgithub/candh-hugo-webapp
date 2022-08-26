@@ -10,6 +10,8 @@ thumbnail: 'work/horizon.jpg'
 images: []
 ---
 
+**Projects**
+
 Day-to-day responsibility to support trading desks in a pressurized and reactive manner.
 
 Introduced REST/Web API delivery pattern to replace disparate, individual WinForms applications.

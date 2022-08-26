@@ -10,6 +10,7 @@ thumbnail: 'work/swissre.jpg'
 images: []
 ---
 
+**Projects**
 
 Helix (WebApp): Lead Angular Developer.  Originator of a web application (Angular + SVG + REST services) onto Swiss Re’s grid-based analytics system which replaces the previous delivery mechanism of Excel spreadsheets. The application provides an intuitive, user-friendly entry point to a highly complex and otherwise opaque analytics library with a rich graphical editor for the executable graphs. 
 

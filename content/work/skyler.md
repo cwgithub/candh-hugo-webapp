@@ -11,6 +11,7 @@ thumbnail: 'work/skyler.jpg'
 images: []
 ---
 
+**Projects**
 
 Design and development of new features for Swing applications displaying market data subscription.
 
