@@ -6,7 +6,7 @@ weight: 1
 align: left
 ---
 
-With over thirty years of software developement experience across a diverse range of industrie, CandH Consultants was formed in 2007 by Chris Ward and Helen Ward.
+With over thirty years of software developement experience across a diverse range of industries, CandH Consultants was formed in 2007 by Chris Ward and Helen Ward.
 
 
 
