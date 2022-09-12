@@ -1,22 +1,29 @@
 ---
-title: 'Swiss Re (London & Zurich)'
+title: "Swiss Re (London & Zurich)"
 date: 2018-11-18T12:33:46+10:00
 draft: false
 weight: 1
-heroHeading: 'Swiss Re (London & Zurich)'
+heroHeading: "Swiss Re (London & Zurich)"
 heroSubHeading: "The world's largest reinsurer."
-heroBackground: 'work/swissre.jpg'
-thumbnail: 'work/swissre.jpg'
+heroBackground: "work/swissre.jpg"
+thumbnail: "work/swissre.jpg"
 images: []
 ---
 
 **Projects**
 
-Helix (WebApp): Lead Angular Developer.  Originator of a web application (Angular + SVG + REST services) onto Swiss Re’s grid-based analytics system which replaces the previous delivery mechanism of Excel spreadsheets. The application provides an intuitive, user-friendly entry point to a highly complex and otherwise opaque analytics library with a rich graphical editor for the executable graphs. 
+##### Graphical Editor for Analytics System : Helix WebApp
 
-Trade booking Web Application: (Solo) Angular Developer.  Delivered a client application to use Helix.  The replacement trade booking system was required for Murex to Aladdin migration with tight deadlines.  This is the first of many intended applications to use Helix-as-a-service at both the GUI and REST server interfaces
+We devised and delivered a web application onto Swiss Re’s grid-based analytics system which replaces the previous delivery mechanism of Excel spreadsheets.
 
-SPIRE (Reserving Platform): Full Stack Angular/Java Developer.  First phase development of the large-scale replacement Reversing system for Actuaries.  
+The application provides an intuitive, user-friendly entry point to a highly complex and otherwise opaque analytics library with a rich graphical editor for the executable graphs.
 
-Worked in distributed team across Europe and US.
+##### Trade Booking WebApp
 
+We delivered a client web application to use the Helix REST API. The replacement trade booking system was required for Swiss Re's trading system migration.
+
+Working too tight deadlines, this is the first of many intended applications to use Helix "as a service" at both the GUI and REST server interfaces.
+
+##### Cloud-based WorkFlow : SPIRE Reserving Platform
+
+Built on top of Azure Logic Apps functionality, we designed and delivered a configurable workflow system to model the live cycle of a brand new Reversing system for Actuaries.

@@ -1,22 +1,24 @@
 ---
-title: 'Skyler Technologies'
+title: "Skyler Technologies"
 date: 2018-11-18T12:33:46+10:00
 draft: false
 weight: 3
-heroHeading: 'Skyler Technologies'
-heroSubHeading: 'Market data connectivity.'
+heroHeading: "Skyler Technologies"
+heroSubHeading: "Market data connectivity."
 
-heroBackground: 'work/skyler.jpg'
-thumbnail: 'work/skyler.jpg'
+heroBackground: "work/skyler.jpg"
+thumbnail: "work/skyler.jpg"
 images: []
 ---
 
 **Projects**
 
-Design and development of new features for Swing applications displaying market data subscription.
+##### Java Consultants
 
-Revitalised the stalled evolution of the main Java server which interfaces to C++ market data applications via CORBA.
+Skyler had existing clients using their Java applications in live settings, but the deployed binaries where getting old and no new features or bug fixes were possible due to lack of Java developer capacity.
 
-Review, documentation and refreshment of legacy Java GUI applications
+We reviewed, documentated and refreshed all the legacy Java source code and created new build systems to build the code.
 
-Creation of new build systems from legacy code to enable active test and development. Introduction of unit and integration tests.
+We revitalised the stalled evolution of the main Java applications and added many new features to the Java Swing GUI applications.
+
+We introduced unit and integration tests.
