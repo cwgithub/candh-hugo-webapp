@@ -1,6 +1,6 @@
 baseURL = "https://www.example.com/"
 languageCode = "en-us"
-title = "CandH Consultants"
+title = "CandH Consultants Ltd"
 theme = "hugo-hero-theme"
 
 [module]
@@ -15,10 +15,12 @@ theme = "hugo-hero-theme"
     mobile = "images/logo-mobile.svg"
     mobile_height = "36px"
     mobile_width = "36px"
-    desktop = "images/logo.jpg"
-    desktop_height = "59px"
-    desktop_width = "369px"
-    alt = "Hugo Hero"
+
+    desktop = "images/CandH-logo-128.jpg"
+    desktop_height = "128px"
+    desktop_width = "128px"
+
+    alt = "CandH Logo"
 
   [params.homepage_meta_tags]
     meta_description = "Hero is a multipurpose Hugo theme with fullscreen hero images and page sections. It contains content types for a business or portfolio site."
